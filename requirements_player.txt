@@ -1,0 +1,2 @@
+-e git+https://github.com/jbradberry/boardgame-socketplayer#egg=BoardPlayer
+
